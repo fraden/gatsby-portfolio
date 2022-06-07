@@ -10,7 +10,7 @@ module.exports = {
         siteTitle: `Dennis Frankenbach`,
         siteTitleAlt: `Portfolio - Dennis Frankenbach`,
         siteHeadline: `Dennis Frankenbach`,
-        siteUrl: `https://jodie.lekoarts.de`,
+        siteUrl: `https://photos.dennisfrankenbach.me/`,
         siteDescription: `Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.`,
         siteLanguage: `en`,
         siteImage: `/banner.jpg`,
