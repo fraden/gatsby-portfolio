@@ -11,7 +11,7 @@ module.exports = {
         siteTitleAlt: `Portfolio - Dennis Frankenbach`,
         siteHeadline: `Dennis Frankenbach`,
         siteUrl: `https://photos.dennisfrankenbach.me/`,
-        siteDescription: `Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.`,
+        siteDescription: `Photography portfolio of Dennis Frankenbach.`,
         siteLanguage: `en`,
         siteImage: `/banner.jpg`,
         author: `@fraden`,
